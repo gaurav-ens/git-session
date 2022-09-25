@@ -1,0 +1,10 @@
+CARS
+
+
+
+// Commit  
+// Pull 
+// PUSH 
+
+// LOCAL SERVER WORKING
+// GIT COMMIT    STAGING ENV SNAPSHOT     PUSH      GIT SERVER  LAST COMMIT
